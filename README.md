@@ -49,5 +49,5 @@ Pipeline automatizada executando testes em Pull Requests e branches principais.
 * IA aplicada à Qualidade de Software
 
 ### 📫 Contato
-* **LinkedIn:** https://www.linkedin.com/in/seu-perfil
+* **LinkedIn:** https://www.linkedin.com/in/cassia-caris-04399232
 * **GitHub:** https://github.com/CassiaCaris
