@@ -3,7 +3,7 @@
 ## Quality Engineer | Test Automation | QA Strategy | CI/CD | AI for Testing 
 Profissional de Qualidade de Software com mais de **20 anos de experiência**, atuando na construção de estratégias de qualidade, automação de testes e evolução de processos.
 
-Tenho como foco apoiar equipes na entrega de produtos mais confiáveis através de **Engenharia de Qualidade**, automação moderna, integração contínua e melhoria contínua do processo de desenvolvimento.
+Tenho como foco apoiar equipes de desenvolvimento na entrega de produtos mais confiáveis por meio de Engenharia de Qualidade, automação moderna, integração contínua e melhoria contínua dos processos.
 
 ---
 
@@ -58,12 +58,12 @@ Tenho como foco apoiar equipes na entrega de produtos mais confiáveis através 
 
 ## 📌 Projetos em Destaque
 
-Embora este framework tenha sido desenvolvido com Playwright, minha experiência em automação também inclui Cypress e Selenium, aplicando a tecnologia mais adequada ao contexto de cada projeto.
+Este framework tenha sido desenvolvido com Playwright, minha experiência em automação também inclui Cypress e Selenium, aplicando a tecnologia mais adequada ao contexto de cada projeto.
 
 ### 🔗 Repositório
 [🎭 Playwright TypeScript Automation Framework](https://github.com/CassiaCaris/playwright-ts-automation-framework)
 
-Framework de automação desenvolvido para validar fluxos UI e API, utilizando Playwright e TypeScript, com foco em escalabilidade, reutilização e integração contínua.
+O projeto demonstra a aplicação prática de boas práticas de Engenharia de Qualidade, incluindo arquitetura escalável, automação UI e API, integração contínua e execução cross-browser.
 
 | Recurso              | Status |
 |-----------------------|:------:|
@@ -103,7 +103,7 @@ Framework de automação desenvolvido para validar fluxos UI e API, utilizando P
 * ✅ Docker
 * ✅ MongoDB
 
-**Próximas Evoluções**
+**Próximos estudos**
 * ⬜ Visual Testing
 * ⬜ Accessibility Testing
 * ⬜ Performance
@@ -116,7 +116,7 @@ Framework de automação desenvolvido para validar fluxos UI e API, utilizando P
 
 Neste perfil compartilho projetos voltados para Engenharia de Qualidade e Automação de Testes, incluindo:
 
-* Frameworks de automação utilizando Playwright
+* Frameworks modernos de automação de testes
 * Testes de APIs REST
 * Integração contínua com GitHub Actions
 * Estudos sobre IA aplicada à qualidade
