@@ -126,7 +126,7 @@ Neste perfil compartilho projetos voltados para Engenharia de Qualidade e Automa
 ---
 
 ## 📫 Contato
-**💼 LinkedIn**
-  https://www.linkedin.com/in/cassia-caris-04399232
-**💻 GitHub** 
+**💼 LinkedIn** <br>
+  https://www.linkedin.com/in/cassia-caris-04399232 <br>
+**💻 GitHub** <br>
   https://github.com/CassiaCaris
