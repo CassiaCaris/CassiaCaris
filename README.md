@@ -41,9 +41,9 @@ Tenho como foco apoiar equipes na entrega de produtos mais confiáveis através 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### APIs
-* ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-* ![Bruno](https://img.shields.io/badge/Bruno-F97316?style=for-the-badge)
-* ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-F97316?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 
 ### DevOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -51,8 +51,8 @@ Tenho como foco apoiar equipes na entrega de produtos mais confiáveis através 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Banco de Dados
-* ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-* ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ---
 
