@@ -1,11 +1,5 @@
 # Olá, eu sou a Cassia Caris 👋
 
-![Playwright](...)
-![TypeScript](...)
-![GitHub Actions](...)
-![Docker](...)
-![MongoDB](...)
-
 ## Quality Engineer | Test Automation | QA Strategy | CI/CD | AI for Testing 
 Profissional de Qualidade de Software com mais de 20 anos de experiência na construção de estratégias de qualidade, automação de testes e evolução de processos.
 
@@ -28,27 +22,27 @@ Atuo apoiando equipes de desenvolvimento na entrega de produtos mais confiáveis
 
 ## 🛠️ Tecnologias
 ### Automação
-* Playwright
-* Cypress
-* Selenium
+* ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+* ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+* ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### Linguagens
-* JavaScript
-* TypeScript
+* ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### APIs
-* Bruno
-* Postman
-* REST Assured
+* ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+* ![Bruno](https://img.shields.io/badge/Bruno-F97316?style=for-the-badge)
+* ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 
 ### DevOps
-* Git
-* GitHub Actions
-* Docker
+* ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+* ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+* ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Banco de Dados
-* MongoDB
-* SQL
+* ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+* ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ### CI/CD
 * GitHub Actions
