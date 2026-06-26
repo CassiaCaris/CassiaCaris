@@ -1,13 +1,19 @@
 # Olá, eu sou a Cassia Caris 👋
 
-## Quality Engineer | QA Automation | Test Strategy | CI/CD 
-Profissional de Qualidade de Software com mais de 20 anos de experiência atuando em projetos de diferentes segmentos, apoiando equipes na construção de produtos mais confiáveis através de automação de testes, estratégias de qualidade, integração contínua e melhoria de processos.
+![Playwright](...)
+![TypeScript](...)
+![GitHub Actions](...)
+![Docker](...)
+![MongoDB](...)
 
-Atualmente meu foco está em Engenharia de Qualidade, Automação Moderna com Playwright, qualidade orientada a dados e aplicação de Inteligência Artificial em testes.
+## Quality Engineer | Test Automation | QA Strategy | CI/CD | AI for Testing 
+Profissional de Qualidade de Software com mais de 20 anos de experiência na construção de estratégias de qualidade, automação de testes e evolução de processos.
+
+Atuo apoiando equipes de desenvolvimento na entrega de produtos mais confiáveis através de Engenharia de Qualidade, automação moderna, integração contínua e melhoria contínua dos processos de desenvolvimento.
 
 ---
 
-### 🚀 Especialidades
+## 🚀 Especialidades
 
 * Engenharia de Qualidade (Quality Engineering)
 * Automação de Testes Web
@@ -20,34 +26,42 @@ Atualmente meu foco está em Engenharia de Qualidade, Automação Moderna com Pl
 
 ---
 
-### 🛠️ Tecnologias
-#### Automação
+## 🛠️ Tecnologias
+### Automação
 * Playwright
 * Cypress
 * Selenium
 
-#### Linguagens
+### Linguagens
 * JavaScript
 * TypeScript
 
-#### APIs
-* Postman
+### APIs
 * Bruno
+* Postman
 * REST Assured
 
-#### DevOps
+### DevOps
 * Git
 * GitHub Actions
 * Docker
 
-#### banco de Dados
+### Banco de Dados
 * MongoDB
 * SQL
 
+### CI/CD
+* GitHub Actions
+* Docker
+* Git
+
 ---
 
-### 📌 Projetos em Destaque
-#### 🎭 Playwright TypeScript Automation Framework
+## 📌 Projetos em Destaque
+
+Meu objetivo é construir frameworks modernos de automação que sejam reutilizáveis, escaláveis e integrados ao processo de entrega contínua.
+
+### 🎭 Playwright TypeScript Automation Framework
 
 Framework completo de automação desenvolvido para validar fluxos UI e API utilizando:
 
@@ -70,26 +84,55 @@ Framework completo de automação desenvolvido para validar fluxos UI e API util
 **🔗 Projeto:**
 [playwright-ts-automation-framework](https://github.com/CassiaCaris/playwright-ts-automation-framework)
 
+| Recurso              | Status |
+|-----------------------|:------:|
+| UI Tests             | ✅ |
+| API Tests            | ✅ |
+| Cross Browser        | ✅ |
+| Docker               | ✅ |
+| MongoDB              | ✅ |
+| GitHub Actions       | ✅ |
+| HTML Report          | ✅ |
+
 ---
 
-### 📚 Atualmente estudando
+## 📚 Atualmente estudando
+* Playwright Avançado
 * IA aplicada à Engenharia de Qualidade
 * Agentic Testing
-* Playwright Avançado
-* Estratégias de Qualidade para Times Ágeis
-* Liderança em Engenharia de Qualidade
+* Arquitetura para Engenharia de Qualidade
+* Liderança Técnica
 
 ---
 
-### 🎯 Objetivos para 2026
-* Evoluir para modelos de Quality Engineering
-* Expandir o uso de IA na automação de testes
-* Aprimorar práticas de CI/CD
-* Desenvolver estratégias de qualidade escaláveis
-* Fortalecer competências de liderança técnica
+## 🎯 Objetivos para 2026
+
+☑ Playwright
+☑ GitHub Actions
+☑ Cross Browser
+⬜ Visual Testing
+⬜ Accessibility Testing
+⬜ Performance
+⬜ AI Testing
+⬜ Agentic Testing
 
 ---
 
-### 📫 Contato
-* **💼 LinkedIn:** https://www.linkedin.com/in/cassia-caris-04399232
-* **💻 GitHub:** https://github.com/CassiaCaris
+## 📊 O que você encontrará no meu GitHub
+
+Neste perfil compartilho projetos voltados para Engenharia de Qualidade e Automação de Testes, incluindo:
+
+* Frameworks de automação utilizando Playwright
+* Testes de APIs REST
+* Integração contínua com GitHub Actions
+* Estudos sobre IA aplicada à qualidade
+* Boas práticas de arquitetura para automação
+* Evolução contínua em Quality Engineering
+
+---
+
+## 📫 Contato
+**💼 LinkedIn**
+  https://www.linkedin.com/in/cassia-caris-04399232
+**💻 GitHub** 
+  https://github.com/CassiaCaris
