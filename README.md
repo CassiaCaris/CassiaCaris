@@ -58,7 +58,7 @@ Tenho como foco apoiar equipes de desenvolvimento na entrega de produtos mais co
 
 ## 📌 Projetos em Destaque
 
-Este framework tenha sido desenvolvido com Playwright, minha experiência em automação também inclui Cypress e Selenium, aplicando a tecnologia mais adequada ao contexto de cada projeto.
+Este framework foi desenvolvido com Playwright para demonstrar uma arquitetura moderna de automação. Minha experiência profissional também inclui Cypress e Selenium, aplicando a tecnologia mais adequada ao contexto de cada projeto.
 
 ### 🔗 Repositório
 [🎭 Playwright TypeScript Automation Framework](https://github.com/CassiaCaris/playwright-ts-automation-framework)
@@ -77,11 +77,11 @@ O projeto demonstra a aplicação prática de boas práticas de Engenharia de Qu
 
 ### Tecnologias utilizadas
 
-* Playwright
-* TypeScript
-* MongoDB
-* Docker
-* GitHub Actions
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
