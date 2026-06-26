@@ -10,7 +10,7 @@ Tenho como foco apoiar equipes na entrega de produtos mais confiáveis através 
 ## ⭐ Destaques
 * +20 anos de experiência em Qualidade de Software
 * Quality Engineering e Estratégia de Testes
-* Frameworks modernos com Playwright
+* Desenvolvimento de frameworks modernos de automação
 * Automação UI e API
 * CI/CD com GitHub Actions
 * Evoluindo em IA aplicada à Engenharia de Qualidade
@@ -58,7 +58,7 @@ Tenho como foco apoiar equipes na entrega de produtos mais confiáveis através 
 
 ## 📌 Projetos em Destaque
 
-Meu objetivo é desenvolver frameworks de automação reutilizáveis, escaláveis e integrados ao processo de entrega contínua.
+Embora este framework tenha sido desenvolvido com Playwright, minha experiência em automação também inclui Cypress e Selenium, aplicando a tecnologia mais adequada ao contexto de cada projeto.
 
 ### 🔗 Repositório
 [🎭 Playwright TypeScript Automation Framework](https://github.com/CassiaCaris/playwright-ts-automation-framework)
