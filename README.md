@@ -101,14 +101,14 @@ Framework completo de automação desenvolvido para validar fluxos UI e API util
 
 ## 🎯 Objetivos para 2026
 
-☑ Playwright
-☑ GitHub Actions
-☑ Cross Browser
-⬜ Visual Testing
-⬜ Accessibility Testing
-⬜ Performance
-⬜ AI Testing
-⬜ Agentic Testing
+* ☑ Playwright
+* ☑ GitHub Actions
+* ☑ Cross Browser
+* ⬜ Visual Testing
+* ⬜ Accessibility Testing
+* ⬜ Performance
+* ⬜ AI Testing
+* ⬜ Agentic Testing
 
 ---
 
